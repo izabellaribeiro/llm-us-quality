@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+type: dataset
+title: "Evaluating the Quality of User Stories: An Extended Comparative Study of Multiple LLMs and Rule-Based Tools - Supplementary Material"
+abstract: >
+  This repository contains supplementary materials for an extended comparative study
+  on automated user story quality evaluation using Large Language Models and the Quality
+  User Story (QUS) Framework. It includes datasets of 168 user stories from
+  3 open-source projects, evaluation scripts, and analysis results from GPT-5,
+  GPT-5-mini, and GPT-4 models.
+authors:
+  - family-names: Silva
+    given-names: "Izabella Ribeiro de Souza"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Federal University of Campina Grande"
+  - family-names: Paiva
+    given-names: "João Gabriel Salvador"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    email: joao.gabriel.salvador.paiva@ccc.ufcg.edu.br
+    affiliation: "Federal University of Campina Grande"
+  - family-names: Wagner
+    given-names: "Danyllo Albuquerque"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Federal University of Campina Grande"
+  - family-names: Gorgônio
+    given-names: Kyller
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Federal University of Campina Grande"
+  - family-names: Perkusich
+    given-names: Angelo
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Federal University of Campina Grande"
+  - family-names: Perkusich
+    given-names: Mirko
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Federal University of Campina Grande"
+keywords:
+  - user stories
+  - requirements engineering
+  - quality assurance
+  - large language models
+  - GPT-5
+  - QUS framework
+  - agile development
+  - automated analysis
+  - defect detection
+license: MIT
+repository-code: "https://github.com/Ilusinusmate/llm-us-quality-xp26"
+url: "https://github.com/Ilusinusmate/llm-us-quality-xp26"
+date-released: 2026-04-08
+version: 1.0.0
+references:
+  - type: article
+    authors:
+      - family-names: Lucassen
+        given-names: Garm
+      - family-names: Dalpiaz
+        given-names: Fabiano
+      - family-names: van der Werf
+        given-names: "Jan Martijn E. M."
+      - family-names: Brinkkemper
+        given-names: Sjaak
+    title: "The use and effectiveness of the Quality User Story framework in practice"
+    journal: "Requirements Engineering"
+    year: 2016
+    volume: 21
+    issue: 2
+    start: 127
+    end: 145
+    doi: "10.1007/s00766-015-0222-3"
