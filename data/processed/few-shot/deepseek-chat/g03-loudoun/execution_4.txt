@@ -1,0 +1,132 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can obtain publicly available information"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "research requirements and to select a service"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can understand where the provisioning of my service is"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "review the for compliance and subsequently approved or denied"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a staff member"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "minimal.punctuation",
+      "evidence": "So that I can finish it"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access, analyze and/or export the needed information"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "publish and distribute the report"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "track the outcome and record the impact"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "monitor and effectively adjust workload"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "successfully Conduct a Plan Review Meeting with the Applicant and record the outcome"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approve, or fail or deny the plans and record any conditions, clearances, or corrections"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "well_formed.no_means",
+      "evidence": "so that I can review revised plans"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "completed, results have been sent to the Applicant and any downstream steps are initiated"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "meet service level and quality requirements"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "validate Customer compliance with code and regulations and provide results"
+    },
+    {
+      "story_id": 57,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a l Staff member"
+    },
+    {
+      "story_id": 58,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can ensure that I am reviewing the permit/application"
+    },
+    {
+      "story_id": 59,
+      "defect_type": "minimal.brackets",
+      "evidence": "outside of the common querying/reporting functionality"
+    },
+    {
+      "story_id": 61,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists"
+    },
+    {
+      "story_id": 62,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Send or Post Citations and Fines"
+    }
+  ],
+  "summary": {
+    "total_stories": 62,
+    "total_defects": 23,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 2,
+      "atomic.conjunctions": 12,
+      "uniform.uniform": 2,
+      "minimal.punctuation": 1,
+      "well_formed.no_means": 1,
+      "unique.identical": 2,
+      "minimal.brackets": 1
+    }
+  }
+}

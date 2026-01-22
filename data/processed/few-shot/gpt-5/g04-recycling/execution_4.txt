@@ -1,0 +1,62 @@
+{
+  "defects": [
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "enter my zip code and get a list"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "select different types of recyclable waste, so I have and get"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "check transaction history and keep a record"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access the site and do all the other stuffs"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "browse through the list of facolities and see"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "communicate directly with the site admin and convey"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a recyclingfacility representative"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a recyclingfacility representative"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a recyclingfacility,"
+    }
+  ],
+  "summary": {
+    "total_stories": 51,
+    "total_defects": 10,
+    "defect_types_count": {
+      "atomic.conjunctions": 7,
+      "uniform.uniform": 3
+    }
+  }
+}

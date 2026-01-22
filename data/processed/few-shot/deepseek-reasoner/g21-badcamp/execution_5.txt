@@ -1,0 +1,68 @@
+{
+  "defects": [
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so they"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so we"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "if there is a schedule feature on the site"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Trainers can see all class attendance at first"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "all trainee information is shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The following information must be shown: Logo, title, trainers"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "for the following information: day and time of training, title"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "and promote call for trainings"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.punctuation",
+      "evidence": "as the third step of the registration process"
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 11,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 3,
+      "minimal.punctuation": 5,
+      "atomic.conjunctions": 3
+    }
+  }
+}

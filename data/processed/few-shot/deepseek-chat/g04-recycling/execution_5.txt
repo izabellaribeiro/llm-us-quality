@@ -1,0 +1,129 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that it takes me to a new tab"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so I have and get a list of facilities that accept each type and their opening hours"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website."
+    },
+    {
+      "story_id": 15,
+      "defect_type": "uniform.uniform",
+      "evidence": "create an acocunt"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "do all the other stuffs"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "uniform.uniform",
+      "evidence": "have a sense of my company's performance"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "uniform.uniform",
+      "evidence": "be guided through the neighbourhood"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "uniform.uniform",
+      "evidence": "full information of all employees working for this business"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "uniform.uniform",
+      "evidence": "handle all users' activities"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "uniform.uniform",
+      "evidence": "upload or delete stuff step by step"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "uniform.uniform",
+      "evidence": "process cases the first time"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "uniform.uniform",
+      "evidence": "create a bill statement"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "uniform.uniform",
+      "evidence": "use bootstrap in the process of developing"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "uniform.uniform",
+      "evidence": "develop an awesome and beautiful features website"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "uniform.uniform",
+      "evidence": "keep the database up-to-date over time"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "uniform.uniform",
+      "evidence": "update the recycling center information"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "view in real-time how many users have visited my recycling center information and their recyclable waste"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "uniform.uniform",
+      "evidence": "answer any questions about my recycling center"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "uniform.uniform",
+      "evidence": "identify the neighbourhoods with the largest number of drop-offs and to try getting more facilities involved"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "uniform.uniform",
+      "evidence": "browse through the list of facolities"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "uniform.uniform",
+      "evidence": "update my information and the type of material I accept"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "uniform.uniform",
+      "evidence": "adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "uniform.uniform",
+      "evidence": "convey any issues or concerns I have"
+    }
+  ],
+  "summary": {
+    "total_stories": 51,
+    "total_defects": 23,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 1,
+      "atomic.conjunctions": 1,
+      "unique.identical": 1,
+      "uniform.uniform": 20
+    }
+  }
+}

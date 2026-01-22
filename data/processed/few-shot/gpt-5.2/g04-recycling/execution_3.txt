@@ -1,0 +1,83 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "select different types of recyclable waste, so I have and get"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "uniform.uniform",
+      "evidence": "create an acocunt"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "check transaction history and keep a record of it"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access the site and do all the other stuffs"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "uniform.uniform",
+      "evidence": "block specific users based on IP address"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "upload or delete stuff step by step"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "give feedback or ask for help"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "fix or review any issues"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "adjust my hours and/or upgrade equipment and capacity"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "choose a flexible pick up time"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "unique.identical",
+      "evidence": "have a flexible pick up time"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "unique.identical",
+      "evidence": "add recycling center information"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "unique.identical",
+      "evidence": "add or remove recycling facilities' information"
+    }
+  ],
+  "summary": {
+    "total_stories": 48,
+    "total_defects": 14,
+    "defect_types_count": {
+      "atomic.conjunctions": 7,
+      "uniform.uniform": 2,
+      "unique.identical": 4
+    }
+  }
+}

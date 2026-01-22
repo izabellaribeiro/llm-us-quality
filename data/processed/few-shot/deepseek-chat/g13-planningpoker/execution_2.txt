@@ -1,0 +1,37 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that we can be flexible"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a participant, I want to be able to change my estimate up until the last person selects a card and all are shown, so that I can change my mind based on information I hear."
+    },
+    {
+      "story_id": 33,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a participant, I want to change my estimate as long as the draw has not been completed, so that I can change my mind."
+    },
+    {
+      "story_id": 14,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a moderator, I want to import stories from a spreadsheet, so that I don't have to copy and paste each individual story."
+    },
+    {
+      "story_id": 15,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a moderator, I want to copy/paste stories from a spreadsheet, so that I can get started more quickly."
+    }
+  ],
+  "summary": {
+    "total_stories": 44,
+    "total_defects": 5,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 1,
+      "uniform.uniform": 4
+    }
+  }
+}

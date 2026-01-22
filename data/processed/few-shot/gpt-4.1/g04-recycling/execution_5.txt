@@ -1,0 +1,124 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "select different types of recyclable waste, so I have and get a list"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "choose a flexible pick up time, so that I can more conveniently use"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "minimal.punctuation",
+      "evidence": "get feedback when I enter an invalid zip code."
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.brackets",
+      "evidence": "create an acocunt, so that I can create my own profile."
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "read users' feedback and complaints"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "check transaction history and keep a record of it"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a great UI and UX from the sites"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access the site and do all the other stuffs"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "handle all users' activities"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a website that is easy to use, so that I can upload or delete stuff"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "attend some UI/UX lessons, so that I can develop an awesome and beautiful features website"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add recycling center information"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "onboard recycling centers on the platform"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "view users' stats"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "reply to user questions"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a dashboard that shows usage stats and locations"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "communicate directly with facilities"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "browse through the list of facolities and see which ones are environment-friendly"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "update my information and the type of material I accept"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have access to user stats and schedules"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "communicate directly with the site admin and convey any issues or concerns"
+    }
+  ],
+  "summary": {
+    "total_stories": 52,
+    "total_defects": 22,
+    "defect_types_count": {
+      "atomic.conjunctions": 19,
+      "unique.identical": 1,
+      "minimal.punctuation": 1,
+      "minimal.brackets": 1
+    }
+  }
+}

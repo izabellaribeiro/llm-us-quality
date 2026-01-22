@@ -1,0 +1,79 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so I have and get a list of facilities that accept each type and their opening hours"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so I have and get a list of facilities that accept each type and their opening hours, so that I can find"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "uniform.uniform",
+      "evidence": "create an acocunt"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "do all the other stuffs"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "uniform.uniform",
+      "evidence": "upload or delete stuff step by step"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "uniform.uniform",
+      "evidence": "list of facolities"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "recyclingfacility representative"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "uniform.uniform",
+      "evidence": "recyclingfacility representative"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "uniform.uniform",
+      "evidence": "recyclingfacility"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "unique.identical",
+      "evidence": "have a flexible pick up time"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "choose a flexible pick up time"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "unique.identical",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "unique.identical",
+      "evidence": "add recycling center information"
+    }
+  ],
+  "summary": {
+    "total_stories": 46,
+    "total_defects": 13,
+    "defect_types_count": {
+      "atomic.conjunctions": 1,
+      "minimal.indicator_repetition": 1,
+      "uniform.uniform": 8,
+      "unique.identical": 3
+    }
+  }
+}

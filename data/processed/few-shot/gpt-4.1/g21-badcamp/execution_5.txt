@@ -1,0 +1,108 @@
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and delete users"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "don't have to and links to slides"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that we can see"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so they can be considered"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that they can be accountable.."
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so we don't loose money"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shows all attendee information Trainers can see all class"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Logo, title, trainers, location, possibly a map view, datetime"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "choose the right class, AND the trainer can tweet"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "day and time of training, title, short summary, trainers"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shop for training all with one page AND find their class"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "list of all training offerings and promote call for trainings"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shop for training all with one page and we can have"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "minimal.punctuation",
+      "evidence": "look for an interesting Drupal gig!."
+    },
+    {
+      "story_id": 22,
+      "defect_type": "minimal.punctuation",
+      "evidence": "populate the schedule ."
+    },
+    {
+      "story_id": 24,
+      "defect_type": "minimal.punctuation",
+      "evidence": "see what's going on at BADCamp ."
+    },
+    {
+      "story_id": 25,
+      "defect_type": "minimal.punctuation",
+      "evidence": "save time."
+    },
+    {
+      "story_id": 26,
+      "defect_type": "minimal.punctuation",
+      "evidence": "populate the schedule ."
+    }
+  ],
+  "summary": {
+    "total_stories": 60,
+    "total_defects": 18,
+    "defect_types_count": {
+      "atomic.conjunctions": 8,
+      "minimal.indicator_repetition": 4,
+      "minimal.punctuation": 6
+    }
+  }
+}

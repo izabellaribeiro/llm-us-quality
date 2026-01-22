@@ -1,0 +1,38 @@
+{
+  "defects": [
+    {
+      "story_id": 4,
+      "defect_type": "minimal.punctuation",
+      "evidence": "such as \"does this include ___\""
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "can see how his or her opinion has changed so I can"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "minimal.punctuation",
+      "evidence": "for example."
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 5,
+    "defect_types_count": {
+      "minimal.punctuation": 2,
+      "minimal.indicator_repetition": 2,
+      "minimal.brackets": 1
+    }
+  }
+}

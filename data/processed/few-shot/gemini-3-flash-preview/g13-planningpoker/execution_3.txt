@@ -1,0 +1,114 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "entering a name and an optional description"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "minimal.punctuation",
+      "evidence": "does this include ___"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "estimated or re-estimated"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "estimate"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "name, email address, a password and a username"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "minimal.punctuation",
+      "evidence": "name, email address, a password and a username"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "account name and password"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "dates and times"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "with {0, 1/2, 1, 2, 3, 5, 8, etc.} or"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.punctuation",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "selects a card and all are shown"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "changed so I can ask questions"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "stories and estimates"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "XHTML and CSS"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sensible and predictable URLs"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "minimal.punctuation",
+      "evidence": "estimator A"
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 20,
+    "defect_types_count": {
+      "atomic.conjunctions": 11,
+      "minimal.punctuation": 6,
+      "minimal.indicator_repetition": 2,
+      "minimal.brackets": 1
+    }
+  }
+}

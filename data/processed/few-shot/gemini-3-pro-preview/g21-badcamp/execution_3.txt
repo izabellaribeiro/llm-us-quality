@@ -1,0 +1,129 @@
+{
+  "defects": [
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "want to must"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "minimal.punctuation",
+      "evidence": "accountable.."
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "registration / cancellation"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "information Trainers can see all"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "information must be shown: Logo"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Logo, title, trainers, location"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "AND the trainer can tweet"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "information: day and time"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "day and time of training"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "AND find their class"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "section and a list"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "offerings and promote call"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify myself as and pay"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "events, trainings and summits"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "events, trainings and summits"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "information and have my card"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sponsor and contact the sponsorship"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "slot and a location"
+    },
+    {
+      "story_id": 65,
+      "defect_type": "unique.identical",
+      "evidence": "see a list of all the summits"
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 23,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 4,
+      "minimal.punctuation": 4,
+      "atomic.conjunctions": 14,
+      "unique.identical": 1
+    }
+  }
+}

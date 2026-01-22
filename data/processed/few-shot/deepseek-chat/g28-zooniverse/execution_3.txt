@@ -1,0 +1,143 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music"
+    },
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music or ringback tones"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify persons in videos, and receive related information"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify products in videos, and receive related information"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify broadcaster logos in videos, and receive related information"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify brands in videos, and receive related information"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "walk around, access content using a geographical map and be informed"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see, validate and edit segmentation of videos"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "annotate news video segments and extract a topic"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "assess how interesting or appealing or complex a picture is"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "detect when a scientist should be prompted to look at a subject"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "know when I should interrupt a volunteer"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "know whether I should interrupt a volunteer with text, an image, or a video"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "know when I should educate a volunteer"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "know whether I should educate a volunteer with text, an image, or a video"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "minimal.punctuation",
+      "evidence": "I want to know which piece of education I should give to a volunteer."
+    },
+    {
+      "story_id": 50,
+      "defect_type": "minimal.brackets",
+      "evidence": "I want to know which piece of education I should give to a volunteer."
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "know when a volunteer has made an interesting comment on a subject"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "know when Zoonibot should comment on a subject"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "know when Zoonibot should give an explanation"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "know what Zoonibot should say to a volunteer"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "group subjects by similarity"
+    },
+    {
+      "story_id": 56,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "recommend different projects to volunteers based on their previous experiences"
+    }
+  ],
+  "summary": {
+    "total_stories": 56,
+    "total_defects": 25,
+    "defect_types_count": {
+      "atomic.conjunctions": 23,
+      "minimal.punctuation": 1,
+      "minimal.brackets": 1
+    }
+  }
+}

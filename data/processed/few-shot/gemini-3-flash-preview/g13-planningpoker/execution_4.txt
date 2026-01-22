@@ -1,0 +1,115 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "entering a name and an optional description"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "minimal.punctuation",
+      "evidence": "such as 'does this include ___'"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "estimated or re-estimated"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "the 'estimate' field"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "copy/paste"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "a password and a username"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "account name and password"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "dates and times"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "selects a card and all are shown"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "opinion has changed so I can ask questions"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "scroll back through the stories and estimates"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "XHTML and CSS standards"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "6 and 7, Firefox 1.5 and 2"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sensible and predictable"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "minimal.punctuation",
+      "evidence": "given by 'estimator A'"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a Researcher"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a Mike"
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 20,
+    "defect_types_count": {
+      "atomic.conjunctions": 11,
+      "minimal.punctuation": 4,
+      "minimal.indicator_repetition": 2,
+      "minimal.brackets": 1,
+      "uniform.uniform": 2
+    }
+  }
+}

@@ -1,0 +1,65 @@
+```json
+{
+  "defects": [
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "enter my zip code and get a list"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "I want to choose a flexible pick up time"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "create an acocunt, so that I can create my own profile"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "read users' feedback and complaints"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "check transaction history and keep a record of it"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access the site and do all the other stuffs"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "browse through the list of facolities and see"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "update my information and the type of material I accept"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "communicate directly with the site admin and convey issues"
+    }
+  ],
+  "summary": {
+    "total_stories": 51,
+    "total_defects": 10,
+    "defect_types_count": {
+      "atomic.conjunctions": 8,
+      "unique.identical": 1,
+      "minimal.indicator_repetition": 1
+    }
+  }
+}
+```

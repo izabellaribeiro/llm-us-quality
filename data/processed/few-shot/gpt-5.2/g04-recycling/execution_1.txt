@@ -1,0 +1,97 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "select different types of recyclable waste, so I have and get"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "check transaction history and keep a record of it"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "upload or delete stuff step by step"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "give feedback or ask for help"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "largest number of drop-offs and to try getting more"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "browse through the list of facolities and see"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "update my information and the type of material I accept"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "adjust my hours and/or upgrade equipment and capacity"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "choose a flexible pick up time, so that I can"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "unique.identical",
+      "evidence": "have a flexible pick up time, so that I can"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "unique.identical",
+      "evidence": "view a dashboard that monitors all the sites' statuses"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "unique.identical",
+      "evidence": "have a dashboard that shows usage stats and locations"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "unique.identical",
+      "evidence": "view a map display of the public recycling bins"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "unique.identical",
+      "evidence": "view all locations of recycling centers on a map"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "unique.identical",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "unique.identical",
+      "evidence": "add recycling center information, so that I can"
+    }
+  ],
+  "summary": {
+    "total_stories": 48,
+    "total_defects": 17,
+    "defect_types_count": {
+      "atomic.conjunctions": 9,
+      "unique.identical": 8
+    }
+  }
+}

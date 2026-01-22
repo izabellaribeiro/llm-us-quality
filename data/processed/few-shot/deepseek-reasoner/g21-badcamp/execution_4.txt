@@ -1,0 +1,159 @@
+{
+  "defects": [
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that we can see"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so they can be considered"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so we don't loose"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Trainers can see all class attendance at first because"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "all trainee information is shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The following information must be shown: Logo, title"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "for the following information: day and time of training"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "find out where the coding lounge is and what time"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "uniform.uniform",
+      "evidence": "See a list"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "uniform.uniform",
+      "evidence": "see a list"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "uniform.uniform",
+      "evidence": "See a payment page"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "events, trainings and summits"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "uniform.uniform",
+      "evidence": "see all events, trainings and summits"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "uniform.uniform",
+      "evidence": "summit coordinator"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "uniform.uniform",
+      "evidence": "see a list of attendees"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "uniform.uniform",
+      "evidence": "summit coordinator"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "uniform.uniform",
+      "evidence": "summit coordinator"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "summit coordinator"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "uniform.uniform",
+      "evidence": "see how many seats"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "uniform.uniform",
+      "evidence": "see specific details"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "uniform.uniform",
+      "evidence": "see a list"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "uniform.uniform",
+      "evidence": "Link to my sponsorship profile"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "learn about posting jobs as a sponsor and contact"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "uniform.uniform",
+      "evidence": "see the schedule"
+    },
+    {
+      "story_id": 56,
+      "defect_type": "uniform.uniform",
+      "evidence": "see the final list"
+    },
+    {
+      "story_id": 65,
+      "defect_type": "uniform.uniform",
+      "evidence": "see a list"
+    },
+    {
+      "story_id": 66,
+      "defect_type": "uniform.uniform",
+      "evidence": "Be offered several choices"
+    },
+    {
+      "story_id": 69,
+      "defect_type": "uniform.uniform",
+      "evidence": "find session information"
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 29,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 3,
+      "minimal.punctuation": 3,
+      "atomic.conjunctions": 5,
+      "uniform.uniform": 18
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "a name and an optional description"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that so that we can be flexible"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "copy/paste stories from a spreadsheet"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "minimal.brackets",
+      "evidence": "as a HTML file"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "minimal.punctuation",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "stories and estimates from prior rounds"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "unique.identical",
+      "evidence": "As a participant, I want to change my estimate"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "minimal.brackets",
+      "evidence": "because I see who I'm estimating with"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to have written a site"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to have a list of definitions"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to have created database indexes"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Internet Explorer 6 and 7"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to have the site comply"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to have the application respond quickly"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to be able to use Unicode"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to see sensible and predictable URLs"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to have nice error pages"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "minimal.brackets",
+      "evidence": "\"estimator A\""
+    }
+  ],
+  "summary": {
+    "total_stories": 54,
+    "total_defects": 19,
+    "defect_types_count": {
+      "atomic.conjunctions": 4,
+      "uniform.uniform": 8,
+      "minimal.brackets": 4,
+      "minimal.punctuation": 1,
+      "unique.identical": 1
+    }
+  }
+}

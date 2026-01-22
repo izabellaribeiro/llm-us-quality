@@ -1,0 +1,125 @@
+{
+  "defects": [
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "the training coordinators don't have to and links"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that, so that we can see"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that so they can be considered"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to must accept"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.punctuation",
+      "evidence": "registration / cancellation workflow"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that so we don't loose money"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.brackets",
+      "evidence": "\"my schedule\""
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Trainers can see all class attendance"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "uniform.uniform",
+      "evidence": "that shows all attendee information Trainers can see"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "minimal.punctuation",
+      "evidence": "so that I can see WTF is happening."
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "I can choose the right class, AND"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The following information must be shown:"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.brackets",
+      "evidence": "/training/training-title"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so that I can shop for training all with one page AND"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "events, trainings and summits"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "register for the event, and get day-of knowledge"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "minimal.punctuation",
+      "evidence": "gigu!."
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "a time slot and a location"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "minimal.punctuation",
+      "evidence": "go!."
+    },
+    {
+      "story_id": 54,
+      "defect_type": "unique.identical",
+      "evidence": "I want to receive a notification when sessions have been evaluated"
+    },
+    {
+      "story_id": 56,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I submit a session."
+    },
+    {
+      "story_id": 61,
+      "defect_type": "uniform.uniform",
+      "evidence": "Be offered several choices of idividual sponsorship"
+    }
+  ],
+  "summary": {
+    "total_stories": 63,
+    "total_defects": 22,
+    "defect_types_count": {
+      "atomic.conjunctions": 6,
+      "uniform.uniform": 6,
+      "minimal.punctuation": 5,
+      "minimal.brackets": 2,
+      "unique.identical": 1
+    }
+  }
+}

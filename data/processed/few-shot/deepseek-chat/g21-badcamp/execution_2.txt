@@ -1,0 +1,393 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 3,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainingcoordinator"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a attendee"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainer"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainee"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainingcoordinator"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that we can see"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a attendee"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so they can be"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainee"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainingcoordinator"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so we don't loose"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainee"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainee"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainer"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shows all attendee information Trainers can see all class attendance"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainingcoordinator"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "choose the right class, AND the trainer can tweet"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shop for training all with one page AND find their class"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shop for training all with one page and we can have"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a administrator"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a administrator"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a administrator"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a sponsor"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a administrator"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a administrator"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a sponsor"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a attendee"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a attendee"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a attendee"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a summit coordinator"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a summit coordinator"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a summit coordinator"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a summit coordinator"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a sponsor"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a sponsor"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a administrator"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 56,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 57,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a administrator"
+    },
+    {
+      "story_id": 58,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a administrator"
+    },
+    {
+      "story_id": 59,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 60,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 61,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 62,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 63,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 64,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a sponsor"
+    },
+    {
+      "story_id": 65,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 66,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a authenticateduser"
+    },
+    {
+      "story_id": 67,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 68,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    },
+    {
+      "story_id": 69,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a anonymoususer"
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 72,
+    "defect_types_count": {
+      "uniform.uniform": 68,
+      "minimal.indicator_repetition": 3,
+      "atomic.conjunctions": 4
+    }
+  }
+}

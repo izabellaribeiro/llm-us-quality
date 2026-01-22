@@ -1,0 +1,61 @@
+```json
+{
+  "defects": [
+    {
+      "story_id": 4,
+      "defect_type": "minimal.punctuation",
+      "evidence": "such as \"does this include ___\". "
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"estimate\" field"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "copy/paste stories"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1, 2, 4, 8, 16, 32, etc.}"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "XHTML and CSS standards"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Internet Explorer 6 and 7"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "minimal.punctuation",
+      "evidence": "things like whether estimates converged around the first opinion"
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 9,
+    "defect_types_count": {
+      "minimal.punctuation": 3,
+      "minimal.indicator_repetition": 1,
+      "atomic.conjunctions": 3,
+      "minimal.brackets": 2
+    }
+  }
+}
+```

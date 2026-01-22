@@ -1,0 +1,159 @@
+{
+  "defects": [
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "don't have to and links to slides"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.punctuation",
+      "evidence": "registration / cancellation"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"my schedule\""
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Trainers can see all class attendance"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Logo, title, trainers, location"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "I can choose the right class, AND the trainer can"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "shown: Logo, title, trainers"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "day and time of training, title"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "information: day and time"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "offerings and promote call"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "I can shop for training... and we can"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "is and what time"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "as and pay for"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "trainings and summits"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "trainings and summits"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "information and have my card"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "uniform.uniform",
+      "evidence": "summit coordinator"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "uniform.uniform",
+      "evidence": "summit coordinator"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "uniform.uniform",
+      "evidence": "summit coordinator"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "summit coordinator"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sponsor and contact"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "minimal.punctuation",
+      "evidence": "gig!."
+    },
+    {
+      "story_id": 54,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "slot and a location"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "minimal.punctuation",
+      "evidence": "go!."
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 29,
+    "defect_types_count": {
+      "atomic.conjunctions": 13,
+      "minimal.indicator_repetition": 5,
+      "minimal.punctuation": 7,
+      "uniform.uniform": 4
+    }
+  }
+}

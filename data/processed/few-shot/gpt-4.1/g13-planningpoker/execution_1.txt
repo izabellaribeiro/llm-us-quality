@@ -1,0 +1,42 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "entering a name and an optional description"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that we can be flexible"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "copy/paste stories from a spreadsheet"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "export a transcript of a game as a HTML file"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "export a transcript of a game as a CSV file"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "entering my name, email address, a password and a username"
+    }
+  ],
+  "summary": {
+    "total_stories": 46,
+    "total_defects": 6,
+    "defect_types_count": {
+      "atomic.conjunctions": 5,
+      "minimal.indicator_repetition": 1
+    }
+  }
+}

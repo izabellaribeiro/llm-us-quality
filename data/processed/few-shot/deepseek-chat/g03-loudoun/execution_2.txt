@@ -1,0 +1,140 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can obtain publicly available information"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "research requirements and to select a service"
+    },
+    {
+      "story_id": 3,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can receive a response to a request"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can understand where the provisioning of my service is in the process"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can review the for compliance and subsequently approved or denied"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a staff member"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "minimal.punctuation",
+      "evidence": "So that I can finish it."
+    },
+    {
+      "story_id": 24,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can ensure all pre-hearing requirements are satisfied in time for the hearing"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can enforce the system"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can listen to it again"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approve, or fail or deny the plans"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can review revised plans"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can make sure the appropriate Inspector receives the work"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can meet service level and quality requirements"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a l Staff member"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can obtain all associated current and historic owners, permits, and applications"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can fulfill a request"
+    },
+    {
+      "story_id": 56,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can associate it to the child parcel and address after the condominiums are recorded in the system"
+    },
+    {
+      "story_id": 57,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists"
+    },
+    {
+      "story_id": 58,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can successfully send the Notice Of Violation document to the property owner and log information about the action"
+    }
+  ],
+  "summary": {
+    "total_stories": 58,
+    "total_defects": 25,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 16,
+      "atomic.conjunctions": 2,
+      "uniform.uniform": 2,
+      "minimal.punctuation": 1,
+      "unique.identical": 2
+    }
+  }
+}

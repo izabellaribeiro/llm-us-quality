@@ -1,0 +1,120 @@
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "to research requirements and to select a service"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "provide my information, plans and/or documents"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can understand where the provisioning"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "validate when an application is complete and eligible"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "review the for compliance and subsequently approved or denied"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "ensure compliance with and satisfaction of the proffer"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a staff member, I want to denote"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct and Track Plan Amendments and Planning Studies"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access, analyze and/or export the needed information"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "capture my response to the request in the system and also send"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "publish and distribute the report"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Prepare for and Support Hearing Execution"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "monitor and effectively adjust workload as necessary and ensure"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct a Plan Review Meeting with the Applicant and record"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approve, or fail or deny the plans and record"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "minimal.punctuation",
+      "evidence": "approve, or fail or deny the plans"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "completed, results have been sent to the Applicant and any downstream"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can ensure that I am reviewing"
+    },
+    {
+      "story_id": 59,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "send the Notice Of Violation document to the property owner and log"
+    }
+  ],
+  "summary": {
+    "total_stories": 59,
+    "total_defects": 21,
+    "defect_types_count": {
+      "atomic.conjunctions": 14,
+      "minimal.indicator_repetition": 2,
+      "uniform.uniform": 1,
+      "minimal.punctuation": 1,
+      "unique.identical": 2
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so I have and get a list of facilities that accept each type and their opening hours"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so I have and get a list of facilities that accept each type and their opening hours, so that I can find an optimal route and schedule"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "uniform.uniform",
+      "evidence": "create an acocunt"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "do all the other stuffs"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "uniform.uniform",
+      "evidence": "facolities"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "uniform.uniform",
+      "evidence": "recyclingfacility representative"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "uniform.uniform",
+      "evidence": "recyclingfacility representative"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "uniform.uniform",
+      "evidence": "recyclingfacility"
+    }
+  ],
+  "summary": {
+    "total_stories": 38,
+    "total_defects": 9,
+    "defect_types_count": {
+      "atomic.conjunctions": 1,
+      "minimal.indicator_repetition": 1,
+      "unique.identical": 1,
+      "uniform.uniform": 6
+    }
+  }
+}

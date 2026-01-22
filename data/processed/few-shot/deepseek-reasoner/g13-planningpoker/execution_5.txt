@@ -1,0 +1,33 @@
+{
+  "defects": [
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "with {0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.punctuation",
+      "evidence": "with {0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can see how his or her opinion has changed so I can ask questions."
+    },
+    {
+      "story_id": 52,
+      "defect_type": "minimal.punctuation",
+      "evidence": "by \"estimator A\" for example."
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 4,
+    "defect_types_count": {
+      "minimal.brackets": 1,
+      "minimal.punctuation": 2,
+      "minimal.indicator_repetition": 1
+    }
+  }
+}

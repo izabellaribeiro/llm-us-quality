@@ -1,0 +1,100 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that it takes me to a new tab"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so I have and get a list of facilities that accept each type and their opening hours"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "I want to choose a flexible pick up time, so that I can more conveniently use the website."
+    },
+    {
+      "story_id": 15,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to be able to create an acocunt"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "do all the other stuffs on all of my electronic devices"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can have a sense of my company's performance"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can manage more efficiently"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "well_formed.no_role",
+      "evidence": "As a company, I want to have a website that is easy to use"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can upload or delete stuff step by step"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can develop an awesome and beautiful features website"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can increase information accuracy"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can view in real-time how many users have visited my recycling center information and their recyclable waste"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can identify the neighbourhoods with the largest number of drop-offs and to try getting more facilities involved"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can know for sure my waste is not going to leave a negative ecological footprint"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a recyclingfacility representative"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a recyclingfacility, I want to be able to communicate directly with the site admin"
+    }
+  ],
+  "summary": {
+    "total_stories": 54,
+    "total_defects": 17,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 1,
+      "atomic.conjunctions": 1,
+      "unique.identical": 1,
+      "uniform.uniform": 13,
+      "well_formed.no_role": 1
+    }
+  }
+}

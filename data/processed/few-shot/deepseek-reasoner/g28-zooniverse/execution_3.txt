@@ -1,0 +1,86 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music using content identification or fingerprinting"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music based on my profile"
+    },
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music based on other users similar to myself"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music or ringback tones similar to a given music video"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music by exploiting enriched metadata and image tags"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "upload tagged videos and have tags available for all further processing steps"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify persons in videos, and receive related information about them"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify products in videos, and receive related information about them"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify broadcaster logos in videos, and receive related information about them"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify brands in videos, and receive related information about them"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "take a picture or upload an image, so that I am recommended with videos"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "walk around, access content using a geographical map and be informed if there are videos"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see, validate and edit segmentation of videos"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "annotate news video segments and extract a topic for each segment"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "filter and rank videos based on A/V quality aspects"
+    }
+  ],
+  "summary": {
+    "total_stories": 60,
+    "total_defects": 15,
+    "defect_types_count": {
+      "atomic.conjunctions": 15
+    }
+  }
+}

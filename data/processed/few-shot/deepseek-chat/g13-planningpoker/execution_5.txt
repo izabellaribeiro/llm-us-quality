@@ -1,0 +1,27 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that we can be flexible"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a participant, I want to be able to change my estimate up until the last person selects a card and all are shown"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a participant, I want to change my estimate as long as the draw has not been completed"
+    }
+  ],
+  "summary": {
+    "total_stories": 44,
+    "total_defects": 3,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 1,
+      "uniform.uniform": 2
+    }
+  }
+}

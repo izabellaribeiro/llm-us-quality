@@ -1,0 +1,48 @@
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "research requirements and to select a service"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct and Track Plan Amendments and Planning Studies"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access, analyze and/or export the needed information"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approve, or fail or deny the plans"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "well_formed.no_means",
+      "evidence": "As a Staff member, I need to be notified"
+    }
+  ],
+  "summary": {
+    "total_stories": 55,
+    "total_defects": 7,
+    "defect_types_count": {
+      "atomic.conjunctions": 4,
+      "unique.identical": 2,
+      "well_formed.no_means": 1
+    }
+  }
+}

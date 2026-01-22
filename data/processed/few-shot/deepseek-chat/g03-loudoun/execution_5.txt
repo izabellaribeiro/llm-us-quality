@@ -1,0 +1,148 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "properties, County services, processes and other general information"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "research requirements and to select a service"
+    },
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "receive a response to a request for a meeting or information"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "service levels, fees, plan review, permit, or inspection results"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "review the for compliance and subsequently approved or denied"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "compliance with and satisfaction of the proffer"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "record work in process, outcome, and location-based information"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access, analyze and/or export the needed information"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "capture my response to the request in the system and also send a communication"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "track hearing-related activities and due dates"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "track the outcome and record the impact"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "monitor and effectively adjust workload as necessary and ensure service levels are met"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "successfully Conduct a Plan Review Meeting with the Applicant and record the outcome"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approve, or fail or deny the plans and record any conditions, clearances, or corrections"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "review the request and if approved, associate it with the appropriate project"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "ensure all plan review tasks are completed, results have been sent to the Applicant and any downstream steps are initiated"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "track and manage bonds throughout the lifecycle of the project until release"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "receive any posted bond and/or obtain occupancy"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "unique.identical",
+      "evidence": "Complete Building Development Project"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "meet service level and quality requirements"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "validate Customer compliance with code and regulations and provide results"
+    },
+    {
+      "story_id": 57,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "obtain all associated current and historic owners, permits, and applications"
+    },
+    {
+      "story_id": 58,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "ensure that I am reviewing the permit/application to the most current data and appropriate standards"
+    },
+    {
+      "story_id": 59,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create a custom query/report outside of the common querying/reporting functionality"
+    },
+    {
+      "story_id": 62,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "successfully send the Notice Of Violation document to the property owner and log information"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a staff member"
+    },
+    {
+      "story_id": 56,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a l Staff member"
+    }
+  ],
+  "summary": {
+    "total_stories": 62,
+    "total_defects": 27,
+    "defect_types_count": {
+      "atomic.conjunctions": 24,
+      "unique.identical": 1,
+      "uniform.uniform": 2
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "defects": [
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "to and links"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so they"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "want to must"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so we"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"my schedule\""
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "shown: Logo"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "class, AND the"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "information: day"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "page AND find"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "offerings and promote call"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "is and what time"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "pay for and become"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify myself as and pay for"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "location and see"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sponsor and where"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "trainings and summits"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "trainings and summits"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sponsor and where"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "information and have"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "customers and otherwise"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "attendence and prevent"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "rewarded and will"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "attendees and give"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "event, and get"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "interested and able"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sponsor and contact"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "slot and a"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "day and figure"
+    },
+    {
+      "story_id": 59,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "accepted or rejected"
+    },
+    {
+      "story_id": 66,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "awesome and financially"
+    },
+    {
+      "story_id": 68,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "camp and get"
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 34,
+    "defect_types_count": {
+      "atomic.conjunctions": 27,
+      "minimal.indicator_repetition": 4,
+      "minimal.punctuation": 3
+    }
+  }
+}

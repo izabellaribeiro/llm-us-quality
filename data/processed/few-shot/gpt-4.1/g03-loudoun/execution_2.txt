@@ -1,0 +1,84 @@
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "research requirements and to select a service"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct and Track Plan Amendments and Planning Studies"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access, analyze and/or export the needed information"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "capture my response to the request in the system and also send"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "publish and distribute the report according to business rules"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Prepare for and Support Hearing Execution"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "minimal.punctuation",
+      "evidence": "monitor and effectively adjust workload as necessary and ensure service levels are met"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct a Plan Review Meeting with the Applicant and record the outcome"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approve, or fail or deny the plans and record any conditions"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "ensure all plan review tasks are completed, results have been sent"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "track and manage bonds throughout the lifecycle"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project"
+    },
+    {
+      "story_id": 58,
+      "defect_type": "well_formed.no_means",
+      "evidence": "As a Staff member, I need to be notified when Geospatial attributes change"
+    }
+  ],
+  "summary": {
+    "total_stories": 59,
+    "total_defects": 14,
+    "defect_types_count": {
+      "atomic.conjunctions": 9,
+      "minimal.punctuation": 1,
+      "unique.identical": 2,
+      "well_formed.no_means": 1
+    }
+  }
+}

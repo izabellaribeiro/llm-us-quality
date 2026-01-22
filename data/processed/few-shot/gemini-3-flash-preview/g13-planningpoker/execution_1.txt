@@ -1,0 +1,174 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "name and an optional description"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"does this include ___\""
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "estimated or re-estimated"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "remove it and not estimate it"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"estimate\""
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "copy and paste"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "copy/paste"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "stories and estimates"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "stories and estimates"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "stories and estimates"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "stories and estimates"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "name, email address, a password and a username"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "minimal.punctuation",
+      "evidence": "name, email address, a password and a username"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "account name and password"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "information and games"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "dates and times"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.punctuation",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "already given an estimate and who we're still waiting for"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "independent and not influenced"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "selects a card and all are shown"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "his or her opinion has changed"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "can see how his or her opinion has changed so I can"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "stories and estimates"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "XHTML and CSS standards"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "6 and 7, Firefox 1.5 and 2, and Safari 2"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "minimal.punctuation",
+      "evidence": "6 and 7, Firefox 1.5 and 2, and Safari 2"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sensible and predictable"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "system and its developers"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"estimator A\""
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 32,
+    "defect_types_count": {
+      "atomic.conjunctions": 22,
+      "minimal.punctuation": 7,
+      "minimal.brackets": 1,
+      "minimal.indicator_repetition": 2
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "defects": [
+    {
+      "story_id": 3,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainingcoordinator,"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so that the training coordinators don't have to and links"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a trainee,"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.punctuation",
+      "evidence": "so that, so that we can see"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so they can be considered"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "minimal.punctuation",
+      "evidence": "accountable.."
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.brackets",
+      "evidence": "registration / cancellation workflow"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so we don't loose"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.brackets",
+      "evidence": "\"my schedule\""
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "attendee information Trainers can see all class attendance"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "information Trainers can see all class attendance at first"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so that I can choose the right class, AND"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The following information must be shown:"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.brackets",
+      "evidence": "/training/training-title"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so that I can shop for training all with one page AND"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so that I can shop for training all with one page and"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify myself as and pay for a $350"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "payment page to pay for my individual sponsorships"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "events, trainings and summits"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "events, trainings and summits"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Enter payment information and have my card charged"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sponsorship person, so that I have the opportunty"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.punctuation",
+      "evidence": "gig!."
+    },
+    {
+      "story_id": 36,
+      "defect_type": "minimal.punctuation",
+      "evidence": "schedule ."
+    },
+    {
+      "story_id": 37,
+      "defect_type": "minimal.punctuation",
+      "evidence": "go!."
+    },
+    {
+      "story_id": 38,
+      "defect_type": "minimal.punctuation",
+      "evidence": "BADCamp ."
+    },
+    {
+      "story_id": 40,
+      "defect_type": "minimal.punctuation",
+      "evidence": "schedule ."
+    },
+    {
+      "story_id": 42,
+      "defect_type": "minimal.punctuation",
+      "evidence": "so that know that my session went through ok."
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so that if I make a mistake, I can correct it."
+    },
+    {
+      "story_id": 46,
+      "defect_type": "unique.identical",
+      "evidence": "personalize my sponsorship page"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "unique.identical",
+      "evidence": "see a list of all the summits"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "minimal.punctuation",
+      "evidence": "choices of idividual sponsorship"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "easily find a link in the menu that links"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "register for the camp and get an account"
+    }
+  ],
+  "summary": {
+    "total_stories": 51,
+    "total_defects": 36,
+    "defect_types_count": {
+      "uniform.uniform": 2,
+      "atomic.conjunctions": 15,
+      "minimal.punctuation": 9,
+      "minimal.indicator_repetition": 3,
+      "minimal.brackets": 3,
+      "unique.identical": 2
+    }
+  }
+}

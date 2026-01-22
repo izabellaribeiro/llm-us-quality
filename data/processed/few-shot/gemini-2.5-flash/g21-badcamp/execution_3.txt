@@ -1,0 +1,170 @@
+```json
+{
+  "defects": [
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "don't have to and links to slides"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "minimal.punctuation",
+      "evidence": ".."
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Trainers can see all class attendance at first because there are so little trainers and they are trusted with privacy,"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "right class, AND the trainer can tweet"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The following information must be shown: Logo, title, trainers, location, possibly a map view, datetime, skill level, registrations remaining, link to register for class."
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The URL path should be SEO friendly /training/training-title,"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "one page AND find their class"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "for the following information: day and time of training, title, short summary, trainers, level, number of registrations, remaining registrations, location of training, link to full details of the training, register now link,"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "intro section and a list of all training offerings"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "offerings and promote call for trainings"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "one page and we can have a call for trainings"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "pay for and become a sponsor role"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify myself as and pay for"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "events, trainings and summits"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "events, trainings and summits"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "my attendence and prevent myself from accidentally"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "my interests, register for the event, and get day-of knowledge"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "learn about posting jobs as a sponsor and contact"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "minimal.punctuation",
+      "evidence": "!."
+    },
+    {
+      "story_id": 54,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "time slot and a location"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "minimal.punctuation",
+      "evidence": " ."
+    },
+    {
+      "story_id": 55,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "plan my day and figure out where to"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "minimal.punctuation",
+      "evidence": "!."
+    },
+    {
+      "story_id": 60,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "accepted or rejected"
+    },
+    {
+      "story_id": 67,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "be awesome and financially support the camp"
+    },
+    {
+      "story_id": 69,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "register for the camp and get an account"
+    }
+  ],
+  "summary": {
+    "total_stories": 70,
+    "total_defects": 31,
+    "defect_types_count": {
+      "atomic.conjunctions": 19,
+      "minimal.indicator_repetition": 4,
+      "minimal.punctuation": 8
+    }
+  }
+}
+```

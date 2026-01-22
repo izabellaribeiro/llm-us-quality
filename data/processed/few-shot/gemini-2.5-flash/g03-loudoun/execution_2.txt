@@ -1,0 +1,61 @@
+```json
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "research requirements and to select a service"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.punctuation",
+      "evidence": "such as information related to service levels, fees, plan review, permit"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct and Track Plan Amendments and Planning Studies"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Prepare for and Support Hearing Execution"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct a Plan Review Meeting with the Applicant and record the outcome"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "minimal.punctuation",
+      "evidence": "such has a final review or payment for permit issuance."
+    },
+    {
+      "story_id": 46,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project, so that I can receive any"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "well_formed.no_role",
+      "evidence": "As a l Staff member"
+    },
+    {
+      "story_id": 58,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Send or Post Citations and Fines"
+    }
+  ],
+  "summary": {
+    "total_stories": 58,
+    "total_defects": 9,
+    "defect_types_count": {
+      "atomic.conjunctions": 5,
+      "minimal.punctuation": 2,
+      "unique.identical": 1,
+      "well_formed.no_role": 1
+    }
+  }
+}
+```

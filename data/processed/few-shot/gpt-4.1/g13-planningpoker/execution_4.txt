@@ -1,0 +1,112 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "entering a name and an optional description"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that we can be flexible"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "copy/paste stories from a spreadsheet"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "export a transcript of a game as a HTML file"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "export a transcript of a game as a CSV file"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "entering my name, email address, a password and a username"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "be able to change my estimate up until the last person selects a card and all are shown"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see each estimator's prior estimates for the story being estimated"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see who gave what estimates during the current round"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "be able start a two-minute countdown timer that all participants can see"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have the two-minute timer reset itself as soon as we all play an estimate"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "scroll back through the stories and estimates from prior rounds"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "change my estimate as long as the draw has not been completed"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a small thumbnail photo displayed near where my cards are played"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have written a site which is compliant with XHTML and CSS standards"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a list of definitions for commonly used terms"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have created database indexes"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have the application function correctly in Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have the site comply with the W3C accessibility guidelines where possible"
+    }
+  ],
+  "summary": {
+    "total_stories": 47,
+    "total_defects": 19,
+    "defect_types_count": {
+      "atomic.conjunctions": 18,
+      "minimal.indicator_repetition": 1
+    }
+  }
+}

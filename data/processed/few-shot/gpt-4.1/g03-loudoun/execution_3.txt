@@ -1,0 +1,73 @@
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "research requirements and to select a service"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct and Track Plan Amendments and Planning Studies"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access, analyze and/or export the needed information"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "capture my response to the request in the system and also send"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Prepare for and Support Hearing Execution"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "monitor and effectively adjust workload as necessary and ensure"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct a Plan Review Meeting with the Applicant and record the outcome"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "review them for compliance and either approve, or fail or deny"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "ensure all plan review tasks are completed, results have been sent"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "track and manage bonds throughout the lifecycle"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy."
+    },
+    {
+      "story_id": 59,
+      "defect_type": "well_formed.no_means",
+      "evidence": "As a Staff member, I need to be notified when Geospatial attributes change"
+    }
+  ],
+  "summary": {
+    "total_stories": 60,
+    "total_defects": 12,
+    "defect_types_count": {
+      "atomic.conjunctions": 10,
+      "unique.identical": 1,
+      "well_formed.no_means": 1
+    }
+  }
+}

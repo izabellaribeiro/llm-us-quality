@@ -1,0 +1,78 @@
+{
+  "defects": [
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Trainers can see all class attendance at first"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "is shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The following information must be shown:"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "for the following information:"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "and promote call for trainings"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to See"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify myself as and pay for"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to See"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Enter payment information and have my card charged"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to Enter"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to Link"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "learn about posting jobs as a sponsor and contact"
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 13,
+    "defect_types_count": {
+      "minimal.punctuation": 3,
+      "atomic.conjunctions": 6,
+      "uniform.uniform": 4
+    }
+  }
+}

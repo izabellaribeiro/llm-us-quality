@@ -1,0 +1,169 @@
+```json
+{
+  "defects": [
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "and links to slides"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.punctuation",
+      "evidence": "so that, so that"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.punctuation",
+      "evidence": "so that so they"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "minimal.punctuation",
+      "evidence": "accountable.."
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.punctuation",
+      "evidence": "so that so we"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "if there is a schedule feature on the site"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Trainers can see all class attendance at first because there are so little"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "is shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "AND the trainer can tweet and promote their class"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The following information must be shown: Logo, title, trainers, location, possibly a map view,"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The URL path should be SEO friendly /training/training-title"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "AND find their class on on one page"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "for the following information: day and time of training, title, short summary, trainers,"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "with an intro section and a list of all training offerings and promote call for trainings"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "where the coding lounge is and what time it is open"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "pay for and become a sponsor role"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify myself as and pay for"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Enter payment information and have my card charged"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "confirm my attendence and prevent myself from accidentally double-booking"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "entice attendees and give positive feedback to presenters"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "register for the event, and get day-of knowledge"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "learn about posting jobs as a sponsor and contact the sponsorship person"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Drupal gig!."
+    },
+    {
+      "story_id": 55,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "plan my day and figure out where to go"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "minimal.punctuation",
+      "evidence": "where to go!."
+    },
+    {
+      "story_id": 56,
+      "defect_type": "minimal.punctuation",
+      "evidence": "BADCamp ."
+    },
+    {
+      "story_id": 58,
+      "defect_type": "minimal.punctuation",
+      "evidence": "schedule ."
+    },
+    {
+      "story_id": 61,
+      "defect_type": "minimal.punctuation",
+      "evidence": "if I make a mistake, I can correct it"
+    },
+    {
+      "story_id": 66,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "be awesome and financially support the camp"
+    },
+    {
+      "story_id": 68,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "register for the camp and get an account on the website"
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 31,
+    "defect_types_count": {
+      "atomic.conjunctions": 18,
+      "minimal.punctuation": 13
+    }
+  }
+}
+```

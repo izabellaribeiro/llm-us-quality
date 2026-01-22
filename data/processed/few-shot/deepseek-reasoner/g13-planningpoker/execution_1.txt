@@ -1,0 +1,69 @@
+{
+  "defects": [
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "estimated or re-estimated"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can see how his or her opinion has changed so I can ask"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that we can start the game."
+    },
+    {
+      "story_id": 3,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that we can estimate it."
+    },
+    {
+      "story_id": 6,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that we can be flexible"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that we can remove it"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that we can move on"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that we can move on"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that we can give a new estimate"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that we can play"
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 11,
+    "defect_types_count": {
+      "atomic.conjunctions": 1,
+      "minimal.brackets": 1,
+      "minimal.indicator_repetition": 1,
+      "uniform.uniform": 8
+    }
+  }
+}

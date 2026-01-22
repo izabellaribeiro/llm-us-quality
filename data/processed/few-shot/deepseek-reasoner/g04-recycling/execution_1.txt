@@ -1,0 +1,67 @@
+{
+  "defects": [
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "enter my zip code and get a list"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "check transaction history and keep a record"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a great UI and UX"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access the site and do all the other stuffs"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shows usage stats and locations"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "browse through the list of facolities and see which ones are environment-friendly"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "update my information and the type of material I accept"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have access to user stats and schedules"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "communicate directly with the site admin and convey any issues or concerns"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "uniform.uniform",
+      "evidence": "choose a flexible pick up time"
+    }
+  ],
+  "summary": {
+    "total_stories": 51,
+    "total_defects": 11,
+    "defect_types_count": {
+      "atomic.conjunctions": 10,
+      "uniform.uniform": 1
+    }
+  }
+}

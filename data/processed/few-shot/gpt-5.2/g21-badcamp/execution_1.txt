@@ -1,0 +1,155 @@
+{
+  "defects": [
+    {
+      "story_id": 3,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that It is easier to use."
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so that the training coordinators don't have to and links to slides."
+    },
+    {
+      "story_id": 7,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "helps track registration status for each attendee so that, so that"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that we can see"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so they can be considered"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that they can be accountable.."
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.brackets",
+      "evidence": "registration / cancellation workflow exists"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so we don't loose money"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "add to \"my schedule\""
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Trainers can see all class attendance at first"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that I can see WTF is happening."
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so that I can choose the right class, AND"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The following information must be shown:"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The URL path should be SEO friendly"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "so that I can shop for training all with one page AND"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify myself as and pay for a $350"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "events, trainings and summits"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "matches my brand, so that I can get exposure"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "interests, register for the event, and get day-of"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "uniform.uniform",
+      "evidence": "I can look for an interesting Drupal gig!."
+    },
+    {
+      "story_id": 51,
+      "defect_type": "uniform.uniform",
+      "evidence": "populate the schedule ."
+    },
+    {
+      "story_id": 52,
+      "defect_type": "uniform.uniform",
+      "evidence": "figure out where to go!."
+    },
+    {
+      "story_id": 53,
+      "defect_type": "uniform.uniform",
+      "evidence": "at BADCamp ."
+    },
+    {
+      "story_id": 55,
+      "defect_type": "uniform.uniform",
+      "evidence": "populate the schedule ."
+    },
+    {
+      "story_id": 57,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that know that my session went through ok."
+    },
+    {
+      "story_id": 62,
+      "defect_type": "uniform.uniform",
+      "evidence": "Be offered several choices of idividual sponsorship"
+    },
+    {
+      "story_id": 63,
+      "defect_type": "uniform.uniform",
+      "evidence": "easily find a link in the menu that links"
+    }
+  ],
+  "summary": {
+    "total_stories": 65,
+    "total_defects": 27,
+    "defect_types_count": {
+      "uniform.uniform": 11,
+      "atomic.conjunctions": 8,
+      "minimal.indicator_repetition": 3,
+      "minimal.punctuation": 4,
+      "minimal.brackets": 1
+    }
+  }
+}

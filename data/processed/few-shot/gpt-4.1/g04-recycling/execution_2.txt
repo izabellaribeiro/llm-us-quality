@@ -1,0 +1,103 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "select different types of recyclable waste, so I have and get"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "choose a flexible pick up time, so that I can more conveniently"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "uniform.uniform",
+      "evidence": "choose a flexible pick up time, so that I can more conveniently"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "create an acocunt, so that I can create"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "uniform.uniform",
+      "evidence": "create an acocunt, so that I can create"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add or remove recycling facilities' information, so that users"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "read users' feedback and complaints, so that we can add"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "check transaction history and keep a record of it, so that"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "have a great UI and UX from the sites, so that I have"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access the site and do all the other stuffs"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "handle all users' activities, so that I can manage"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a website that is easy to use, so that I can upload or delete"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "use bootstrap in the process of developing, so that I can easily design"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "attend some UI/UX lessons, so that I can develop an awesome"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a dashboard that shows usage stats and locations"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "update my information and the type of material I accept"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have access to user stats and schedules, so that I can adjust"
+    }
+  ],
+  "summary": {
+    "total_stories": 49,
+    "total_defects": 17,
+    "defect_types_count": {
+      "atomic.conjunctions": 11,
+      "unique.identical": 1,
+      "uniform.uniform": 2,
+      "minimal.indicator_repetition": 1,
+      "minimal.punctuation": 1,
+      "minimal.brackets": 0,
+      "well_formed.no_role": 0,
+      "well_formed.no_means": 0
+    }
+  }
+}

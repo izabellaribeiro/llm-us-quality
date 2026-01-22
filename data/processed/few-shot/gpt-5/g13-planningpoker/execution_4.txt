@@ -1,0 +1,22 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that we can"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 2,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 1,
+      "minimal.brackets": 1
+    }
+  }
+}

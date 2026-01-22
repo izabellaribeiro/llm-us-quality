@@ -1,0 +1,94 @@
+{
+  "defects": [
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Trainers can see all class attendance at first"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "is shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "The following information must be shown: Logo, title, trainers"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "for the following information: day and time of training"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "and promote call for trainings"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "where the coding lounge is and what time it is open"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to See a list"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify myself as and pay for a $350"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to See a payment page"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Enter payment information and have my card charged"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to Enter payment information"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to Link to my sponsorship profile"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "learn about posting jobs as a sponsor and contact"
+    },
+    {
+      "story_id": 66,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want to Be offered several choices"
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 16,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 1,
+      "minimal.punctuation": 3,
+      "atomic.conjunctions": 7,
+      "uniform.uniform": 5
+    }
+  }
+}

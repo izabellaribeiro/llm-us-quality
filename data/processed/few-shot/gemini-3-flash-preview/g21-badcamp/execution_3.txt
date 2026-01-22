@@ -1,0 +1,213 @@
+{
+  "defects": [
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "info and updates"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "buildings and rooms"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "don't have to and links"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that, so that"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "minimal.punctuation",
+      "evidence": "accountable.."
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "money or spots"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.punctuation",
+      "evidence": "registration / cancellation"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"my schedule\""
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "and they are trusted with privacy"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shown and can be filtered"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "AND the trainer can tweet"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "/training/training-title"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "AND find their class"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.punctuation",
+      "evidence": "training, title, short summary"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "section and a list of all training offerings and promote"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "is and what time"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "pay for and become"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify myself as and pay"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "location and see"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sponsor and where"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "trainings and summits"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "trainings and summits"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "information and have my card charged"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "customers and otherwise"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "attendence and prevent"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "rewarded and will be"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "attendees and give"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "interests, register for the event, and get"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "minimal.punctuation",
+      "evidence": "interests, register for the event,"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "interested and able"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "sponsor and contact"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "minimal.punctuation",
+      "evidence": "gig!."
+    },
+    {
+      "story_id": 54,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "slot and a location"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "day and figure out"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "minimal.punctuation",
+      "evidence": "go!."
+    },
+    {
+      "story_id": 66,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "awesome and financially"
+    },
+    {
+      "story_id": 68,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "camp and get"
+    }
+  ],
+  "summary": {
+    "total_stories": 69,
+    "total_defects": 40,
+    "defect_types_count": {
+      "atomic.conjunctions": 29,
+      "minimal.indicator_repetition": 3,
+      "minimal.punctuation": 8
+    }
+  }
+}

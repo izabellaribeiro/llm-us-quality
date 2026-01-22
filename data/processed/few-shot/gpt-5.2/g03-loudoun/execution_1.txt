@@ -1,0 +1,144 @@
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "to research requirements and to select a service"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "provide my information, plans and/or documents"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "permit, or inspection results"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "complete and eligible"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approved or denied"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "workflow or other actions"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "workflow or other actions"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a staff member, I want"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct and Track Plan Amendments and Planning Studies"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access, analyze and/or export"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approval/denial"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "capture my response to the request... and also send a communication"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Applicant's request for service"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Prepare for and Support Hearing Execution"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "minimal.punctuation",
+      "evidence": "service levels are met"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct a Plan Review Meeting with the Applicant and record the outcome"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "either approve, or fail or deny"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "if approved, associate it"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "completed, results have been sent... and any downstream steps"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "validate Customer compliance... and provide results"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a l Staff member, I want"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "uniform.uniform",
+      "evidence": "I need to be notified"
+    },
+    {
+      "story_id": 57,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Split or Merged Parcel Pin"
+    },
+    {
+      "story_id": 58,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Send or Post Citations and Fines"
+    }
+  ],
+  "summary": {
+    "total_stories": 58,
+    "total_defects": 27,
+    "defect_types_count": {
+      "atomic.conjunctions": 17,
+      "uniform.uniform": 3,
+      "unique.identical": 2,
+      "minimal.punctuation": 3
+    }
+  }
+}

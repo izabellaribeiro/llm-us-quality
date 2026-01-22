@@ -1,0 +1,166 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can obtain publicly available information"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "research requirements and to select a service"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can understand where the provisioning of my service is in the process"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "review the for compliance and subsequently approved or denied"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "minimal.punctuation",
+      "evidence": "As a staff member, I want to denote an application with a Final Action status. So that I can finish it."
+    },
+    {
+      "story_id": 20,
+      "defect_type": "minimal.brackets",
+      "evidence": "As a staff member, I want to denote an application with a Final Action status. So that I can finish it."
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct and Track Plan Amendments and Planning Studies"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access, analyze and/or export the needed information"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "capture my response to the request in the system and also send a communication"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can satisfy an Applicant's request for service that has proven to be eligible"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "successfully Conduct a Plan Review Meeting with the Applicant and record the outcome"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can listen to it again"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approve, or fail or deny the plans and record any conditions, clearances, or corrections"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can review revised plans"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can review the request and if approved, associate it with the appropriate project"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "ensure all plan review tasks are completed, results have been sent to the Applicant and any downstream steps are initiated"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can track and manage bonds throughout the lifecycle of the project until release"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy."
+    },
+    {
+      "story_id": 43,
+      "defect_type": "unique.identical",
+      "evidence": "As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy."
+    },
+    {
+      "story_id": 44,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that a County inspector is assigned to perform an inspection of my project"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "meet service level and quality requirements"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "validate Customer compliance with code and regulations and provide results of the inspection"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a l Staff member"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "obtain all associated current and historic owners, permits, and applications"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can ensure that I am reviewing the permit/application to the most current data"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can fulfill a request"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can associate it to the child parcel and address after the condominiums are recorded"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can successfully update the transactional Parcel Pin to reference the GIS layer"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Send or Post Citations and Fines"
+    },
+    {
+      "story_id": 55,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can successfully send the Notice Of Violation document to the property owner and log information"
+    }
+  ],
+  "summary": {
+    "total_stories": 55,
+    "total_defects": 30,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 12,
+      "atomic.conjunctions": 10,
+      "unique.identical": 2,
+      "minimal.punctuation": 1,
+      "minimal.brackets": 1,
+      "uniform.uniform": 1
+    }
+  }
+}

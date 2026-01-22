@@ -1,0 +1,80 @@
+{
+  "defects": [
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "select an item to be estimated or re-estimated"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "copy/paste stories"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see dates and times"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.punctuation",
+      "evidence": "select whether to have the team estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "select whether to have the team estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can see how his or her opinion has changed so I can ask questions"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "scroll back through the stories and estimates"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see sensible and predictable URLs"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "uniform.uniform",
+      "evidence": "be able to change my estimate"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "uniform.uniform",
+      "evidence": "be able to see each estimator's prior estimates"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "uniform.uniform",
+      "evidence": "be able start a two-minute countdown timer"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "uniform.uniform",
+      "evidence": "be able to use Unicode"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "uniform.uniform",
+      "evidence": "be able to see some metrics"
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 13,
+    "defect_types_count": {
+      "atomic.conjunctions": 5,
+      "minimal.punctuation": 1,
+      "minimal.brackets": 1,
+      "minimal.indicator_repetition": 1,
+      "uniform.uniform": 5
+    }
+  }
+}

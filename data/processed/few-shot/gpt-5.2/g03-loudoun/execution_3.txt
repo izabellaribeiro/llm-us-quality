@@ -1,0 +1,583 @@
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "to research requirements and to select a service"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "fees, plan review, permit, or inspection results"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "complete and eligible"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approved or denied"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can satisfy communication and records responsibilities"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct and Track Plan Amendments and Planning Studies"
+    },
+    {
+      "story_id": 22,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access, analyze and/or export"
+    },
+    {
+      "story_id": 24,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approval/denial"
+    },
+    {
+      "story_id": 25,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "capture my response to the request in the system and also send a communication"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "publish and distribute the report"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "ensure all pre-hearing requirements are satisfied and staff and Applicant are ready"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "schedule and assign the inspection"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "well_formed.no_role",
+      "evidence": "As a l Staff member"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "uniform.uniform",
+      "evidence": "I need to be notified"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "associate it to the child parcel and address"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Split or Merged Parcel Pin exists"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Send or Post Citations and Fines"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "send the Notice Of Violation document to the property owner and log information"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "validate Customer compliance with code and regulations and provide results"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approve, or fail or deny the plans and record any conditions"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "meet service level and quality requirements"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "uniform.uniform",
+      "evidence": "Track  the Draft Proffers"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a staff member"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "review the request and if approved, associate it"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "conditions, clearances, or corrections"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "current and historic owners, permits, and applications"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "So that I can finish it."
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.punctuation",
+      "evidence": "either approve, or fail or deny"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Resubmit Plans, so that I can review revised plans."
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "create a custom query/report"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "ensure compliance with and satisfaction of the proffer"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "enforce the system"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "track the outcome and record the impact"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "monitor and effectively adjust workload"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can successfully send"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can review them for compliance"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "uniform.uniform",
+      "evidence": "search for Property information"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a County Staff Member"
+    },
+    {
+      "story_id": 1,
+      "defect_type": "uniform.uniform",
+      "evidence": "Search for Information"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "uniform.uniform",
+      "evidence": "Submit Application"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "uniform.uniform",
+      "evidence": "Submit Supporting Documentation"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "uniform.uniform",
+      "evidence": "Pay Fee"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "uniform.uniform",
+      "evidence": "Track  the Draft Proffers"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "uniform.uniform",
+      "evidence": "Conduct Inspections"
+    },
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "properties, County services, processes and other general information"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "plans and/or documents"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "log on to the Customer Portal and perform transactions"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "share information with other Staff collaborating on the record"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "allow progression through the workflow or other actions"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "workflow or other actions in the system"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "approve, or fail or deny"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "uniform.uniform",
+      "evidence": "Track  the Draft Proffers"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a staff member"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "uniform.uniform",
+      "evidence": "create each condo unit"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "uniform.uniform",
+      "evidence": "GIS Property Management"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "uniform.uniform",
+      "evidence": "Notice Of Violation"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "track hearing-related activities and due dates"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "plan set and/or application"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "relevant service and/or application type"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "uniform.uniform",
+      "evidence": "Geospatial attributes"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "uniform.uniform",
+      "evidence": "Property information"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "rules and procedures"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "minimal.punctuation",
+      "evidence": "met"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "code and regulations"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "change information on an application"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Citations and Fines"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "requested or received"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Capture a Hearing Decision"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Process the Appeals"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "submitted by the Applicant"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "uniform.uniform",
+      "evidence": "Track  the Draft Proffers"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Final Action status. So that"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "uniform.uniform",
+      "evidence": "Inspector"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "uniform.uniform",
+      "evidence": "I need to be notified"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "uniform.uniform",
+      "evidence": "Submit Supporting Documentation"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "uniform.uniform",
+      "evidence": "Pay Fee"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "minimal.punctuation",
+      "evidence": "met"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "minimal.brackets",
+      "evidence": "query/report"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "minimal.punctuation",
+      "evidence": "Notice Of Violation document"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "uniform.uniform",
+      "evidence": "search for Property information"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "uniform.uniform",
+      "evidence": "Modify my Application"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "uniform.uniform",
+      "evidence": "search for Property information"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a staff member"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "uniform.uniform",
+      "evidence": "Manage Approved Proffers"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "uniform.uniform",
+      "evidence": "Plan Review Staff member"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "uniform.uniform",
+      "evidence": "As an Inspector"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "uniform.uniform",
+      "evidence": "Manage Ordinances"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "custom query/report"
+    },
+    {
+      "story_id": 1,
+      "defect_type": "uniform.uniform",
+      "evidence": "Public User"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "minimal.punctuation",
+      "evidence": "met"
+    },
+    {
+      "story_id": 1,
+      "defect_type": "uniform.uniform",
+      "evidence": "Search for Information"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "well_formed.no_means",
+      "evidence": "I need to be notified"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a l Staff member"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "uniform.uniform",
+      "evidence": "Plan Review Staff Supervisor"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "uniform.uniform",
+      "evidence": "Resubmit Plans"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "uniform.uniform",
+      "evidence": "ProspectiveApplicant"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "County Staff Member"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "uniform.uniform",
+      "evidence": "Pay Fee"
+    },
+    {
+      "story_id": 1,
+      "defect_type": "uniform.uniform",
+      "evidence": "Search for Information"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "uniform.uniform",
+      "evidence": "research requirements"
+    },
+    {
+      "story_id": 3,
+      "defect_type": "uniform.uniform",
+      "evidence": "Request PreApplication Assistance"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "uniform.uniform",
+      "evidence": "Resubmit Plans"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "query/report"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "uniform.uniform",
+      "evidence": "Send or Post"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "uniform.uniform",
+      "evidence": "Notice Of Violation"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "uniform.uniform",
+      "evidence": "Conduct Inspections"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "uniform.uniform",
+      "evidence": "Track  the Draft Proffers"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "uniform.uniform",
+      "evidence": "Modify my Application"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "uniform.uniform",
+      "evidence": "create a custom query/report"
+    },
+    {
+      "story_id": 10,
+      "defect_type": "uniform.uniform",
+      "evidence": "Perform a Completeness Review"
+    },
+    {
+      "story_id": 47,
+      "defect_type": "uniform.uniform",
+      "evidence": "Citations and Fines"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "minimal.punctuation",
+      "evidence": "plans."
+    },
+    {
+      "story_id": 49,
+      "defect_type": "unique.identical",
+      "evidence": "Complete Building Development Project"
+    }
+  ],
+  "summary": {
+    "total_stories": 47,
+    "total_defects": 102,
+    "defect_types_count": {
+      "atomic.conjunctions": 39,
+      "minimal.indicator_repetition": 4,
+      "well_formed.no_role": 1,
+      "uniform.uniform": 54,
+      "minimal.punctuation": 8,
+      "minimal.brackets": 1,
+      "well_formed.no_means": 1,
+      "unique.identical": 1
+    }
+  }
+}

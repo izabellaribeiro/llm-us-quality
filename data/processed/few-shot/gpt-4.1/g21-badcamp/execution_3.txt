@@ -1,0 +1,132 @@
+{
+  "defects": [
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "email all the trainers at once from the website for info and updates"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "I want to have a very clear map where the buildings and rooms are, so that I can make it to class on time."
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "edit my training node myself, so that the training coordinators don't have to and links to slides"
+    },
+    {
+      "story_id": 7,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "helps track registration status for each attendee so that, so that we can see if attendend, refunded, no show."
+    },
+    {
+      "story_id": 8,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so they can be considered for a class."
+    },
+    {
+      "story_id": 9,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that they can be accountable.."
+    },
+    {
+      "story_id": 10,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so we don't loose money or spots."
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "shows all attendee information Trainers can see all class attendance at first because there are so little trainers and they are trusted with privacy, so that the training coordinator doesn't have to do all the work to get login info for environment setup."
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Logo, title, trainers, location, possibly a map view, datetime, skill level, registrations remaining, link to register for class."
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can choose the right class, AND the trainer can tweet and promote their class."
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "day and time of training, title, short summary, trainers, level, number of registrations, remaining registrations, location of training, link to full details of the training, register now link"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can shop for training all with one page AND find their class on on one page."
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "a training landing page with an intro section and a list of all training offerings and promote call for trainings"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can shop for training all with one page and we can have a call for trainings for selection."
+    },
+    {
+      "story_id": 23,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "create and maintain venues"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "assign sponsors to events, trainings and summits"
+    },
+    {
+      "story_id": 29,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see all events, trainings and summits that a sponsor is sponsoring"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see what summits I'm signed up for, so that I can confirm my attendence and prevent myself from accidentally double-booking with a training or another summit."
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "list sponsors for my summit, so that I can make sure sponsors feel rewarded and will be interested in sponsoring in future years."
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "list an agenda for my summit, so that I can entice attendees and give positive feedback to presenters to encourage participation."
+    },
+    {
+      "story_id": 47,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see specific details on summits, so that I can learn more about the summit I'm interested in to see if it matches my interests, register for the event, and get day-of knowledge to help me get to the location."
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "use a WYSIWYG editor for all long-form content, so that I don't have to know HTML to update my content."
+    },
+    {
+      "story_id": 52,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "learn about posting jobs as a sponsor and contact the sponsorship person"
+    },
+    {
+      "story_id": 56,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "assign a room to a time slot and a location"
+    }
+  ],
+  "summary": {
+    "total_stories": 59,
+    "total_defects": 23,
+    "defect_types_count": {
+      "atomic.conjunctions": 15,
+      "minimal.indicator_repetition": 8
+    }
+  }
+}

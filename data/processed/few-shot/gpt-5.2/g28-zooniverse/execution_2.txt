@@ -1,0 +1,137 @@
+{
+  "defects": [
+    {
+      "story_id": 1,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music"
+    },
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music"
+    },
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music or ringback tones"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "search and discover music"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "minimal.brackets",
+      "evidence": "so that I find related artists, new genre"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "upload tagged videos and have tags available"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "video items and segments"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "video items and segments"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify persons in videos, and receive related information"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify products in videos, and receive related information"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify broadcaster logos in videos, and receive related information"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify brands in videos, and receive related information"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "take a picture or upload an image"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "walk around, access content using a geographical map"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see, validate and edit segmentation of videos"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "annotate news video segments and extract a topic"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "such as metadata and tags either recognized"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "interesting or appealing or complex a picture"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "automated analysis, citizen annotations, and comments"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "plankton size or orientation"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "features such as areas of flooding, damage"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "artefacts such as bright stars and camera read errors"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "interrupt a volunteer with text, an image, or a video"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "educate a volunteer with text, an image, or a video"
+    }
+  ],
+  "summary": {
+    "total_stories": 58,
+    "total_defects": 25,
+    "defect_types_count": {
+      "atomic.conjunctions": 24,
+      "minimal.brackets": 1
+    }
+  }
+}

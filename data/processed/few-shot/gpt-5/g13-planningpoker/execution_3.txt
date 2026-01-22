@@ -1,0 +1,40 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "uniform.uniform",
+      "evidence": "so that so that we can be flexible"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "copy/paste stories from a spreadsheet"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "I can see how his or her opinion has changed so I"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "unique.identical",
+      "evidence": "change my estimate as long as the draw has not been completed"
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 5,
+    "defect_types_count": {
+      "uniform.uniform": 1,
+      "atomic.conjunctions": 1,
+      "minimal.brackets": 1,
+      "minimal.indicator_repetition": 1,
+      "unique.identical": 1
+    }
+  }
+}

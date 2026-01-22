@@ -1,0 +1,63 @@
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "research requirements and to select a service"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a staff member"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct and Track Plan Amendments and Planning Studies"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Prepare for and Support Hearing Execution"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Conduct a Plan Review Meeting with the Applicant and record"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "unique.identical",
+      "evidence": "Complete Building Development Project"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "unique.identical",
+      "evidence": "Complete Building Development Project"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "uniform.uniform",
+      "evidence": "As a l Staff member"
+    },
+    {
+      "story_id": 54,
+      "defect_type": "uniform.uniform",
+      "evidence": "I need to be notified"
+    },
+    {
+      "story_id": 58,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "Send or Post Citations and Fines"
+    }
+  ],
+  "summary": {
+    "total_stories": 58,
+    "total_defects": 10,
+    "defect_types_count": {
+      "atomic.conjunctions": 5,
+      "uniform.uniform": 3,
+      "unique.identical": 2
+    }
+  }
+}

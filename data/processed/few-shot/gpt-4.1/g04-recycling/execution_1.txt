@@ -1,0 +1,184 @@
+{
+  "defects": [
+    {
+      "story_id": 2,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I know about recycling centers near me before creating an account"
+    },
+    {
+      "story_id": 3,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "enter my zip code and get a list of nearby recycling"
+    },
+    {
+      "story_id": 4,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can arrange drop-offs on my off days or during after-work hours"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "select different types of recyclable waste, so I have and get a list"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can find an optimal route and schedule"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "unique.identical",
+      "evidence": "choose a flexible pick up time, so that I can more conveniently use the website"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "create an acocunt, so that I can create my own profile."
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "read users' feedback and complaints"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "check transaction history and keep a record of it"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I have a pleasant experience when navigating through them"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access the site and do all the other stuffs"
+    },
+    {
+      "story_id": 23,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that important information will not be stolen during a server breach or an attack"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "access the route planning system during work"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have access to the full information of all employees"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I have a reason to use the website"
+    },
+    {
+      "story_id": 31,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I will not suffer from identity theft or telephone harassment"
+    },
+    {
+      "story_id": 32,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "handle all users' activities"
+    },
+    {
+      "story_id": 33,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a website that is easy to use, so that I can upload or delete stuff step by step"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "view all available activity fees online"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can easily design my website"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can develop an awesome and beautiful features website"
+    },
+    {
+      "story_id": 39,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can get recommendations for recycling centers that best fit my availability"
+    },
+    {
+      "story_id": 40,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that I can get a temporary password in case I forget my own one"
+    },
+    {
+      "story_id": 41,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "contact the administrators, so that I can give feedback or ask for help"
+    },
+    {
+      "story_id": 43,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "view user error logs, so that I can fix or review any issues"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "onboard recycling centers on the platform"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "view users' stats, so that I can view in real-time how many users have visited my recycling center information and their recyclable waste"
+    },
+    {
+      "story_id": 48,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have a dashboard that shows usage stats and locations"
+    },
+    {
+      "story_id": 49,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "communicate directly with facilities, so that I can keep them updated about features we have on our website"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "browse through the list of facolities and see which ones are environment-friendly"
+    },
+    {
+      "story_id": 51,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "update my information and the type of material I accept"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "have access to user stats and schedules"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "communicate directly with the site admin and convey any issues or concerns I have"
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 33,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 11,
+      "atomic.conjunctions": 21,
+      "unique.identical": 1,
+      "minimal.punctuation": 1
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that we can be flexible"
+    }
+  ],
+  "summary": {
+    "total_stories": 44,
+    "total_defects": 1,
+    "defect_types_count": {
+      "minimal.indicator_repetition": 1
+    }
+  }
+}

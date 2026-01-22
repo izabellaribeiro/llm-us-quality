@@ -1,0 +1,76 @@
+{
+  "defects": [
+    {
+      "story_id": 4,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"does this include ___\""
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "estimated or re-estimated"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "minimal.indicator_repetition",
+      "evidence": "so that so that"
+    },
+    {
+      "story_id": 11,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"estimate\""
+    },
+    {
+      "story_id": 15,
+      "defect_type": "minimal.punctuation",
+      "evidence": "copy/paste"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "minimal.brackets",
+      "evidence": "{0, 1/2, 1, 2, 3, 5, 8, etc.}"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or"
+    },
+    {
+      "story_id": 34,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "selects a card and all are shown"
+    },
+    {
+      "story_id": 37,
+      "defect_type": "uniform.uniform",
+      "evidence": "be able start"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "minimal.punctuation",
+      "evidence": "\"estimator A\""
+    },
+    {
+      "story_id": 52,
+      "defect_type": "uniform.uniform",
+      "evidence": "I want results to be stored"
+    },
+    {
+      "story_id": 53,
+      "defect_type": "well_formed.no_role",
+      "evidence": "As a Mike"
+    }
+  ],
+  "summary": {
+    "total_stories": 53,
+    "total_defects": 12,
+    "defect_types_count": {
+      "minimal.punctuation": 4,
+      "atomic.conjunctions": 3,
+      "minimal.indicator_repetition": 1,
+      "minimal.brackets": 1,
+      "uniform.uniform": 2,
+      "well_formed.no_role": 1
+    }
+  }
+}

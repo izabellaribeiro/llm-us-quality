@@ -1,0 +1,153 @@
+```json
+{
+  "defects": [
+    {
+      "story_id": 4,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "music or ringback tones"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "metadata and image tags"
+    },
+    {
+      "story_id": 5,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "related artists, new genre, or other relevant listening path"
+    },
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "upload tagged videos and have tags available"
+    },
+    {
+      "story_id": 8,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "video items and segments"
+    },
+    {
+      "story_id": 9,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "video items and segments"
+    },
+    {
+      "story_id": 12,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify persons in videos, and receive related information"
+    },
+    {
+      "story_id": 13,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify products in videos, and receive related information"
+    },
+    {
+      "story_id": 14,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify broadcaster logos in videos, and receive related information"
+    },
+    {
+      "story_id": 15,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "identify brands in videos, and receive related information"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "take a picture or upload an image"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "walk around, access content using a geographical map and be informed"
+    },
+    {
+      "story_id": 17,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "area, monuments or any other relevant point of interest"
+    },
+    {
+      "story_id": 19,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "see, validate and edit segmentation of videos"
+    },
+    {
+      "story_id": 20,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "annotate news video segments and extract a topic"
+    },
+    {
+      "story_id": 21,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "filter and rank videos"
+    },
+    {
+      "story_id": 26,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "metadata and tags"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "interesting or appealing or complex"
+    },
+    {
+      "story_id": 27,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "automated analysis, citizen annotations, and comments on Talk"
+    },
+    {
+      "story_id": 28,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "annotations and information from Talk comments"
+    },
+    {
+      "story_id": 36,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "segmentation or localization of plankton"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "plankton size or orientation"
+    },
+    {
+      "story_id": 42,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "areas of flooding, damage, temporary shelters, blocked roads etc"
+    },
+    {
+      "story_id": 44,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "bright stars and camera read errors"
+    },
+    {
+      "story_id": 45,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "moving and transient objects"
+    },
+    {
+      "story_id": 46,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "background noise and distracting sounds"
+    },
+    {
+      "story_id": 50,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "text, an image, or a video"
+    },
+    {
+      "story_id": 52,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "text, an image, or a video"
+    }
+  ],
+  "summary": {
+    "total_stories": 60,
+    "total_defects": 28,
+    "defect_types_count": {
+      "atomic.conjunctions": 28
+    }
+  }
+}
+```

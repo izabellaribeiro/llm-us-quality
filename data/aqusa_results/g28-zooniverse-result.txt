@@ -1,0 +1,51 @@
+Story #1: "As a user, I want to search and discover music using content identification or fingerprinting."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to search [* and *] discover music using content identification [* or *] fingerprinting.
+Story #2: "As a user, I want to search and discover music based on my profile."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to search [* and *] discover music based on my profile.
+Story #3: "As a user, I want to search and discover music based on other users similar to myself."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to search [* and *] discover music based on other users similar to myself.
+Story #4: "As a user, I want to search and discover music or ringback tones similar to a given music video based on content similarity."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to search [* and *] discover music [* or *] ringback tones similar to a given music video based on content similarity.
+Story #5: "As a user, I want to search and discover music by exploiting enriched metadata and image tags, so that I find related artists, new genre, or other relevant listening path."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to search [* and *] discover music by exploiting enriched metadata and image tags, so that I find related artists, new genre, [* or *] other relevant listening path.
+Story #6: "As a user, I want to upload tagged videos and have tags available for all further processing steps."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to upload tagged videos [* and *] have tags available for all further processing steps.
+Story #12: "As a user, I want to identify persons in videos, and receive related information about them."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to identify persons in videos, [* and *] receive related information about them.
+Story #13: "As a user, I want to identify products in videos, and receive related information about them."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to identify products in videos, [* and *] receive related information about them.
+Story #14: "As a user, I want to identify broadcaster logos in videos, and receive related information about them."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to identify broadcaster logos in videos, [* and *] receive related information about them.
+Story #15: "As a user, I want to identify brands in videos, and receive related information about them."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to identify brands in videos, [* and *] receive related information about them.
+Story #17: "As a user, I want to walk around, access content using a geographical map and be informed if there are videos covering the area, monuments or any other relevant point of interest."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to walk around, access content using a geographical map [* and *] be informed if there are videos covering the area, monuments [* or *] any other relevant point of interest.
+Story #20: "As an admin, I want to annotate news video segments and extract a topic for each segment."
+   Defect type: atomic.conjunctions
+   Message: As an admin, I want to annotate news video segments [* and *] extract a topic for each segment.
+Story #21: "As an admin, I want to filter and rank videos based on A/V quality aspects."
+   Defect type: atomic.conjunctions
+   Message: As an admin, I want to filter [* and *] rank videos based on A [*/*] V quality aspects.
+Story #26: "As an admin, I want to prefilter the content using search on high level asset information such as metadata and tags either recognized by the system of provided by the user."
+   Defect type: atomic.conjunctions
+   Message: As an admin, I want to prefilter the content using search on high level asset information such as metadata [* and *] tags either recognized by the system of provided by the user.
+Story #27: "As a Zooniverse admin, I want to assess how interesting or appealing or complex a picture is based on automated analysis, citizen annotations, and comments on Talk."
+   Defect type: atomic.conjunctions
+   Message: As a Zooniverse admin, I want to assess how interesting [* or *] appealing or complex a picture is based on automated analysis, citizen annotations, [* and *] comments on Talk.
+Story #43: "As a Zooniverse admin, I want to assess the probability/weight of a volunteers classification based on their experience."
+   Defect type: atomic.conjunctions
+   Message: As a Zooniverse admin, I want to assess the probability [*/*] weight of a volunteers classification based on their experience.
+Story #46: "As a Zooniverse admin, I want to remove background noise and distracting sounds from the audio files."
+   Defect type: atomic.conjunctions
+   Message: As a Zooniverse admin, I want to remove background noise [* and *] distracting sounds from the audio files.

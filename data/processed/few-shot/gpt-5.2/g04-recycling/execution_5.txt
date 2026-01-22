@@ -1,0 +1,42 @@
+{
+  "defects": [
+    {
+      "story_id": 6,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "select different types of recyclable waste, so I have and get"
+    },
+    {
+      "story_id": 16,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "add or remove recycling facilities' information"
+    },
+    {
+      "story_id": 18,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "check transaction history and keep a record of it"
+    },
+    {
+      "story_id": 30,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "upload or delete stuff step by step"
+    },
+    {
+      "story_id": 35,
+      "defect_type": "atomic.conjunctions",
+      "evidence": "upload my week's schedule, so that I can get recommendations"
+    },
+    {
+      "story_id": 38,
+      "defect_type": "unique.identical",
+      "evidence": "add recycling center information, so that I can keep the database"
+    }
+  ],
+  "summary": {
+    "total_stories": 47,
+    "total_defects": 6,
+    "defect_types_count": {
+      "atomic.conjunctions": 5,
+      "unique.identical": 1
+    }
+  }
+}
